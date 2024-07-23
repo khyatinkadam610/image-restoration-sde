@@ -37,4 +37,4 @@ network_G:
 
 #### path
 path:
-  pretrain_model_G: pretrained/rain100h_sde.pth
+  pretrain_model_G: /kaggle/input/sdeprac/pytorch/default/1
